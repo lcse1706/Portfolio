@@ -1,6 +1,3 @@
-[submodule "beauty-by-ec"]
-	path = beauty-by-ec
-	url = https://github.com/lcse1706/beauty-by-ec.git
 [submodule "beauty-managment"]
 	path = beauty-managment
 	url = https://github.com/lcse1706/beauty-managment.git
