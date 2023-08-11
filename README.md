@@ -10,3 +10,9 @@ www.beautybyec.se
 
 Created for www.beautybyec.se System built to manage receipts and send them to the customer.
 
+<h3>cli-notebook</h3>
+
+App with code editor which allows to save code snippets with comments in text editor in separate block.
+
+
+
