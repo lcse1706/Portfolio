@@ -7,3 +7,6 @@
 [submodule "cli-notebook"]
 	path = cli-notebook
 	url = https://github.com/lcse1706/cli-notebook.git
+[submodule "find-recipie"]
+	path = find-recipie
+	url = https://github.com/lcse1706/find-recipie.git
