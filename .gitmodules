@@ -4,3 +4,9 @@
 [submodule "beauty-by-ec"]
 	path = beauty-by-ec
 	url = https://github.com/lcse1706/beauty-by-ec.git
+[submodule "cli-notebook"]
+	path = cli-notebook
+	url = https://github.com/lcse1706/react-typescript-projects/tree/main/cli-notebook
+
+
+
