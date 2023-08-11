@@ -8,5 +8,5 @@ www.beautybyec.se
 
 <h3>Beauty Management</h3>
 
-Created for www.beautybyec.se . System built to manage receipts and send them to the customer.
+Created for www.beautybyec.se System built to manage receipts and send them to the customer.
 
