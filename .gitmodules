@@ -10,3 +10,6 @@
 [submodule "find-recipie"]
 	path = find-recipie
 	url = https://github.com/lcse1706/find-recipie.git
+[submodule "jobboard"]
+	path = jobboard
+	url = https://github.com/lcse1706/jobboard
