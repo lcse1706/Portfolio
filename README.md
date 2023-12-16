@@ -4,7 +4,7 @@
 
 App which allow user to add job offers. There is possibility to log in with mail or with google accounts. As searcher you can mark your favorites offers. 
 
-App Previev: <a href="https://jobboard-lcse1706.vercel.app/dashboard">DEMO</a>
+App Preview: <a href="https://jobboard-lcse1706.vercel.app/dashboard">DEMO</a>
 
 <h3>Beauty By Ec</h3>
 
