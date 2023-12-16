@@ -4,6 +4,8 @@
 
 App which allow user to add job offers. There is possibility to log in with mail or with google accounts. As searcher you can mark your favorites offers. 
 
+<h4 align='center'>Application Preview: <a href="https://jobboard-lcse1706.vercel.app/dashboard">DEMO</a></h4>
+
 <h3>Beauty By Ec</h3>
 
 Commercial website of beauty saloon located in Sweden.
