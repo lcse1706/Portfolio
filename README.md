@@ -16,7 +16,7 @@ www.beautybyec.se
 
 Created for www.beautybyec.se System built to manage receipts and send them to the customer.
 
-App Preview: <a href="beauty-management.vercel.app">DEMO</a>
+App Preview: <a href="https://beauty-management.vercel.app">DEMO</a>
 
 <h3>cli-notebook</h3>
 
