@@ -6,6 +6,12 @@ App which allow user to add job offers. There is possibility to log in with mail
 
 App Preview: <a href="https://jobboard-pi.vercel.app/dashboard">DEMO</a>
 
+<h3>ChatBot OpenAI</h3>
+
+By default, the task is to interact with the user based on their preferences, but in the Jobboard app, its functionality is limited to the Jobboard app range.
+
+App Preview: <a href="https://chatbot-open-ai-theta.vercel.app/">DEMO</a>
+
 <h3>Beauty By Ec</h3>
 
 Commercial website of beauty saloon located in Sweden.
