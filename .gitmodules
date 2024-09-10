@@ -13,3 +13,6 @@
 [submodule "jobboard"]
 	path = jobboard
 	url = https://github.com/lcse1706/jobboard
+[submodule "chatbot-openAI"]
+	path = chatbot-openAI
+	url = https://github.com/lcse1706/chatbot-openAI
